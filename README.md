@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com Inteligênci
 - 🔭 Atualmente estou trabalhando em projetos fascinantes que envolvem IA, cibersegurança e desenvolvimento web.
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em redes neurais, desenvolvimento full-stack e novas tecnologias.
 - 👯 Busco colaborar em projetos open-source, especialmente nas áreas de IA e automação com Python.
-- 📫 Como me encontrar: **michelss.dev@gmail.com**
+- 📫 Como me encontrar: **njfw23@gmail.com**
 
 ### Conecte-se comigo
 
